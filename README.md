@@ -3,7 +3,7 @@
 
 
 ## Description:
-This repositary contains my assignment 1 for the data visualisation class. It contains 2 branches main and __. The __ branch contains 2 folders data and notebooks. The data folder contains the dataset for analysis. The notebooks folder contains the notebook where all the code for analysis is done with analysis interpretations at the bottom.
+This repositary contains my assignment 1 for the data visualisation class. It contains 2 branches main and analysis-notebook. The analysis-notebook branch contains 2 folders data and notebooks. The data folder contains the dataset for analysis. The notebooks folder contains the notebook where all the code for analysis is done with analysis interpretations at the bottom.
 
 
 ## How to run this notebook: 
